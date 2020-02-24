@@ -1,0 +1,11 @@
+/Users/brandansayarath/Desktop/double-it/obj/Debug/netcoreapp2.2/DoubleIt.csprojAssemblyReference.cache
+/Users/brandansayarath/Desktop/double-it/obj/Debug/netcoreapp2.2/DoubleIt.csproj.CoreCompileInputs.cache
+/Users/brandansayarath/Desktop/double-it/obj/Debug/netcoreapp2.2/DoubleIt.AssemblyInfoInputs.cache
+/Users/brandansayarath/Desktop/double-it/obj/Debug/netcoreapp2.2/DoubleIt.AssemblyInfo.cs
+/Users/brandansayarath/Desktop/double-it/bin/Debug/netcoreapp2.2/DoubleIt.deps.json
+/Users/brandansayarath/Desktop/double-it/bin/Debug/netcoreapp2.2/DoubleIt.runtimeconfig.json
+/Users/brandansayarath/Desktop/double-it/bin/Debug/netcoreapp2.2/DoubleIt.runtimeconfig.dev.json
+/Users/brandansayarath/Desktop/double-it/bin/Debug/netcoreapp2.2/DoubleIt.dll
+/Users/brandansayarath/Desktop/double-it/bin/Debug/netcoreapp2.2/DoubleIt.pdb
+/Users/brandansayarath/Desktop/double-it/obj/Debug/netcoreapp2.2/DoubleIt.dll
+/Users/brandansayarath/Desktop/double-it/obj/Debug/netcoreapp2.2/DoubleIt.pdb
